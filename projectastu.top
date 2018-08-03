@@ -1,0 +1,32 @@
+concept: ~ASTU ["Adama Science and technology univeristy" "adama university" "college"]
+concept: ~KEREYU [kreyu keryu kereyu]
+concept: ~KULBI [kulibi kulbi klubi]
+concept: ~AMFI [amfi anfi amphi anphi]	
+concept: ~SOEEC ["school of electrical engineering and computing" "electrical school" "electrical engineering and computing school" soeec]
+concept: ~SOCEA ["school of civil engineering and architecture" "civil school" "civil engineering school" "architecture school" "arch school" socea]
+concept: ~SOMCME ["school of mechanical chemical and materials engineering" "Mech school" "mechanical school" somcme]
+concept: ~SOANS ["school of applied natural science" "applied science school" "natural science school" soans]
+concept: ~CSE ["Computer science and engineering" cse ]
+concept: ~EPCE ["Electrical power and control engineering" epce power]
+concept: ~ECE ["Electronics and communication engineering" ece]
+concept: ~COTM ["construction technology and management" cotm]
+concept: ~UPD ["urban planning and design" upd]
+concept: ~ARCH [Architecture arch]
+concept: ~CIVIL [civil]
+concept: ~GEO [geomatics]
+concept: ~WRE ["water resource engineering" "water engineering" "hydraulics engineeering" hydro]
+concept: ~TAE ["thermal and aerospace engineering" thermal aerospace]
+concept: ~CE ["chemical engineering" chemical]
+concept: ~MDME ["mechanical design and manufacturing engineering" design manufacturing]
+concept: ~MSE ["material science and engineering" material]
+concept: ~MSVE ["mechanical system and vehicle engineering" vehicle]
+
+
+topic: ~something keep repeat [~ASTU ~KEREYU ~KULBI ~AMFI ~SOEEC ~SOCEA ~SOMCME ~SOANS]
+
+
+u: (list the places found in ~ASTU) Kereyu,kulbi and amfi
+
+u: ([Who how "Do You Know"] * ~ASTU *) ^keep() [ASTU is a son of a b****]
+
+u: (How is ~ASTU) ^keep() [astu is doing fine]

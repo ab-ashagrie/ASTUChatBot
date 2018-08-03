@@ -1,0 +1,14 @@
+concept: ~name[Zerubabel Zeru Gete Armonium "Armonium prime" He]
+concept: ~hawassa [awasa hawasa hawassa]
+topic: ~story keep repeat [~hawassa ~name]
+
+t: THIS BOT IS MADE TO INTERACT WITH THE USER THROUGH VARIOUS QUESTIONS ABOUT STUDENT ZERUBABEL AND TO GIVE ANSWERS TO THOSE QUESTIONS.THE ANSWERS MAYBE FACTS OR JUST OPINIONS THAT THE BOT HAS ABOUT THE PERSON.
+
+#! opinion about zerubabel
+
+u: (what do you think about ~name) I think zerubabel is a great kid.He can sometimes lack confidence and might act awkwardly around people but he's fun around those he is comfortable being fun with. He has lots and lots of unresolved issues he has to work on but all in all,he's a good guy.
+
+u: (what does ~name like to eat the most ?) You mean besides everything? That kid will devour anything you give him so it's hard to say he has a favorite food since every food is his favorite food.
+
+u: ([who "do you know"] * ~name *) He is a 3rd year Mechanical Engineering and Vehicle student.He was born in Hawassa and raised in Hawassa and in Addis Ababa. 
+
