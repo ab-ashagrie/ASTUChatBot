@@ -22,7 +22,7 @@ concept: ~MSE ["material science and engineering" material]
 concept: ~MSVE ["mechanical system and vehicle engineering" vehicle]
 
 
-topic: ~something keep repeat [~ASTU ~KEREYU ~KULBI ~AMFI ~SOEEC ~SOCEA ~SOMCME ~SOANS]
+topic: ~something keep repeat [~ASTU ~KEREYU ~KULBI ~AMFI ~SOEEC ~SOCEA ~SOMCME ~SOANS ~CSE ~EPCE ~ECE ~COTM ~UPD ~ARCH ~CIVIL ~GEO ~WRE ~TAE ~ CE ~MDME ~MSE ~MSVE]
 
 
 u: (list the places found in ~ASTU) Kereyu,kulbi and amfi
