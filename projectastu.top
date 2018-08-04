@@ -27,6 +27,6 @@ topic: ~something keep repeat [~ASTU ~KEREYU ~KULBI ~AMFI ~SOEEC ~SOCEA ~SOMCME 
 
 u: (list the places found in ~ASTU) Kereyu,kulbi and amfi
 
-u: ([Who how "Do You Know"] * ~ASTU *) ^keep() [ASTU is a son of a b****]
+u: ([Who "Do You Know"] * ~ASTU *) ^keep() [ASTU is one of the leading science and technology universities in the country]
 
 u: (How is ~ASTU) ^keep() [astu is doing fine]
