@@ -8,7 +8,7 @@ t: (%input<%userfirstline %input>0)
 
 t: (%input<%userfirstline)
 	^keep()
-	[Hello][Hey][Hola][Hi][Gracias][como estas], user
+	[Hello][Hey][Hi], user
 
 
 r: Have you ever used this chatbot before ?
