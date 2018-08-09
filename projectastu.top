@@ -1,4 +1,4 @@
-concept: ~astu ["adama science and technology univeristy" "adama university" "college"]
+concept: ~astu ["adama science and technology univeristy" "adama university" "college" "astu"]
 concept: ~kereyu [kreyu keryu kereyu]
 concept: ~kulbi [kulibi kulbi klubi]
 concept: ~amfi [amfi anfi amphi anphi]	
@@ -21,16 +21,27 @@ concept: ~mdme ["mechanical design and manufacturing engineering" "design manufa
 concept: ~mse ["material science and engineering" "material" "mse"]
 concept: ~msve ["mechanical system and vehicle engineering" "vehicle" "msve"]
 concept: ~cafe ["cafeteria" "cafeterias" "student cafeteria" "cafe" "cafes" "student cafeterias"] 
-concept: ~lounge ["teachers " "student " "central" "container" mestawot mirror mastawot mestawet ]
-
+concept: ~lounge ["teachers" "student" "central" "container" mestawot mirror mastawot mestawet ]
 
 topic: ~something keep repeat [~ASTU ~KEREYU ~KULBI ~AMFI ~SOEEC ~SOCEA ~SOMCME ~SOANS ~CSE ~EPCE ~ECE ~COTM ~UPD ~ARCH ~CIVIL ~GEO ~WRE ~TAE ~ CE ~MDME ~MSE ~MSVE]
 
-u: ([tell me the number of the ~cafe in ~ASTU] [tell me the number of the ~cafe] [how many ~cafe are there in ~ASTU]) [There are Five Student Cafeterias in ASTU but Cafe number one is used to hold meetings] [Five]
+u: ([tell me the number of the ~cafe in ~ASTU] [how many ~cafe are there in ~ASTU]) [There are Five Student Cafeterias in ASTU but Cafe number one is used to hold meetings] [Five]
 
-u: ([where can i find ~CAFE]
+u: (where is ~cafe _*) $cc='_0
 
-u: (list the places found in ~ASTU) Kereyu,kulbi and amfi
+u: ($cc=one) [Look for Block number 106] [go to Amfi it is right next to it]  $cc=null
+
+u: ($cc=two) [Find Block number 135] [Look for B135]  $cc=null
+
+u: ($cc=three) [Find Block number 276] [the block number is 276]  $cc=null
+
+u: ($cc=four) [Find Block number 404] [Block 404 next to cafeteria number five]  $cc=null
+
+u: ($cc=five) [Find Block number 405] [Look for B405]  $cc=null
+
+u: ([who which] * use ~cafe) Only students who registered to use the cafeteria service can get any service from the cafe
+
+u: (list the places found in ~ASTU) Kereyu,kulbi,amfi,Stadium,Female dorm,Research and Teachers Dorm
 
 u: ([Who "Do You Know"] * ~ASTU *) ^keep() [ASTU is one of the leading science and technology universities in the country]
 
