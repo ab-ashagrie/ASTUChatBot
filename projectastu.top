@@ -21,7 +21,7 @@ concept: ~mdme ["mechanical design and manufacturing engineering" "design manufa
 concept: ~mse ["material science and engineering" "material" "mse"]
 concept: ~msve ["mechanical system and vehicle engineering" "vehicle" "msve"]
 concept: ~cafe ["cafeteria" "cafeterias" "student cafeteria" "cafe" "cafes" "student cafeterias"] 
-concept: ~lounge ["teachers " "student " "central" "container" mestawot mirror mastawot mestawet ]
+concept: ~lounge ["teachers" "student" "central" "container" mestawot mirror mastawot mestawet ]
 
 topic: ~something keep repeat [~ASTU ~KEREYU ~KULBI ~AMFI ~SOEEC ~SOCEA ~SOMCME ~SOANS ~CSE ~EPCE ~ECE ~COTM ~UPD ~ARCH ~CIVIL ~GEO ~WRE ~TAE ~ CE ~MDME ~MSE ~MSVE]
 
