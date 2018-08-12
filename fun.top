@@ -1,5 +1,5 @@
 topic: ~fun keep repeat [~lounge ~food]
 ?: (Where can * find ~food) You can find food in astu lounges. This are Student lounge Teachers lounge Central caffe Mestawet caffe Containers . ^keep()
 ?: (where is student lounge) Its at anfi.
-?: (where is teachers lounge) Its at syber. "Syber is a place where fresh and female students go to use wifi"
+?: (where is teachers lounge) Its at cyber. "Cyber is a place where fresh and female students go to use wifi"
 
