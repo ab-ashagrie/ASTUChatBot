@@ -14,6 +14,7 @@ concept: ~upd ["urban planning and design" "upd" "urban"]
 concept: ~arch ["architecture" "arch"]
 concept: ~civil ["civil" "civil engineering"]
 concept: ~wre ["water resource engineering" "water engineering" "hydraulics engineeering" "hydro" "wre"]
+concept: ~geo ["geomatics engineering" geo ]
 concept: ~tae ["thermal and aerospace engineering" "thermal aerospace" "tae"]
 concept: ~ce ["chemical engineering" "chemical" "ce"]
 concept: ~mdme ["mechanical design and manufacturing engineering" "design manufacturing" "mdme"]
@@ -29,6 +30,11 @@ concept: ~lounge ["teachers" "student" "central" "container" mestawot mirror mas
 
 topic: ~something keep repeat [~ASTU ~KEREYU ~KULBI ~AMFI ~SOEEC ~SOCEA ~SOMCME ~SOANS ~CSE ~EPCE ~ECE ~COTM ~UPD ~ARCH ~CIVIL ~GEO ~WRE ~TAE ~ CE ~MDME ~MSE ~MSVE]
 
+
+u: (["tell me" list] * the places found in ~ASTU) Kereyu,kulbi,amfi,Stadium,Female dorm,Research and Teachers Dorm
+
+u: ([What "What do You Know"] * ~ASTU *) ^keep() [ASTU is one of the leading science and technology universities in the country]
+
 u: ([tell me the number of the ~cafe in ~ASTU] [how many ~cafe are there in ~ASTU]) [There are Five Student Cafeterias in ASTU but Cafe number one is used to hold meetings] [Five]
 
 u: (where is ~cafe _*) $cc='_0
@@ -43,10 +49,5 @@ u: ($cc=four) [Find Block number 404] [Block 404 next to cafeteria number five] 
 
 u: ($cc=five) [Find Block number 405] [Look for B405]  $cc=null
 
-u: ([who which] * use ~cafe) Only students who registered to use the cafeteria service can get any service from the cafe
+u: ([who which] * use * ~cafe) Only students who registered to use the cafeteria service can get any service from the cafe
 
-u: (list the places found in ~ASTU) Kereyu,kulbi,amfi,Stadium,Female dorm,Research and Teachers Dorm
-
-u: ([Who "Do You Know"] * ~ASTU *) ^keep() [ASTU is one of the leading science and technology universities in the country]
-
-u: (How is ~ASTU) ^keep() [astu is doing fine]

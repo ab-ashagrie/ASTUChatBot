@@ -1,4 +1,5 @@
 concept: ~icpc ["International Collegiate Programming Contest" "icpc" "ACM International Collegiate Programming Contest" "acm"]
+concept: ~astu ["adama science and technology univeristy" "adama university" "college" "astu"]
 
 topic: ~icpc keep repeat [icpc ~astu]
 
@@ -6,12 +7,12 @@ u: (what is ~icpc) ICPC is an annual multi-tiered competitive programming compet
 
 u: (who * participate * ~icpc) Every student of ASTU can Participate on ICPC competetions.
 
-u: (when did ~astu first participated) [Students of Astu first participated in the year 2007 e.c] [2007 e.c]
+u: (when did ~astu first participate) [Students of Astu first participated in the year 2007 e.c] [2007 e.c]
 
-u: (how ~icpc started in ~astu) [Icpc started in astu because of the former head of school of electrical engineering and computing(soEEC) Professor Chwa.] [The idea was first brought by former head of soEEC Professor Chwa from North Korea]
+u: ([how "tell me"] * ~icpc start in ~astu) [Icpc started in astu because of the former head of school of electrical engineering and computing(soEEC) Professor Chwa.] [The idea was first brought by former head of soEEC Professor Chwa from North Korea]
 
-u: ([what is the schedule of ~icpc] [what do students do after joining ~icpc] [what is the programm of ~icpc]) [Every summer there is Training program for members, local contest in september and regional on the same month and international in the second half of the year. During the rest of the year demo contests are prepared by the ICPC comite] [members participate in demo contests the whole year training during the summer local and regional contest on september and finaly international representing Ethiopia]
+u: ([what is the schedule of ~icpc] [what do students do after joining ~icpc] [what is the programm of ~icpc]) [Every summer there is a training program for members, a local contest in september and a regional contest on the same month and an international contest in the second half of the year. During the rest of the year demo contests are prepared by the ICPC committe] [members participate in demo contests the whole year and then train during the summe,local and regional contests on september and finally an international contest representing Ethiopia]
 
-u: ([use purpose] of ~icpc) Icpc help students to develope their programming and problem solving skils.
+u: ([use purpose] of ~icpc) Icpc help students develop their programming and problem solving skills.
 
-u: (how can * join ~icpc) There is a registration exam every year at the begining of accadamic year.
+u: (how can * join ~icpc) There is a registration exam every year at the beginning of acadamic year.
