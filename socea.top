@@ -4,7 +4,7 @@ concept: ~upd ["urban planning and design" upd urban]
 concept: ~arch [architecture arch]
 concept: ~civil [civil "civil engineering"]
 concept: ~wre ["water resource engineering" "water engineering" "hydraulics engineeering" hydro wre]
-concept: ~geo ["geomatics engineering" geo ]
+concept: ~geom ["geomatics engineering" geom ]
 
 topic: ~socea keep repeat []
 
@@ -26,7 +26,7 @@ u: (["what is" "tell me about"] ~wre) Water resources engineers are concerned wi
 
 
 
-u: (["what is" "tell me about"] ~geo) Geomatics engineering is a new information technology discipline in which engineers acquire, model, analyze, and manage spatially referenced information and apply the knowledge generated to a wide variety of functions. It uses terrestrial, marine, airborne, and satellite-based sensors to acquire spatial and other data. It then transforms the data into common information systems such as mapping or global positioning systems (GPS) with well-defined accuracy characteristics. Using satellites and other modern techniques, Geomatics engineers help airplane pilots to navigate the skies with increased safety; geophysicists to find underground petroleum reservoirs; and rescue teams to locate ships, aircraft, and land vehicles in distress. Geomatics engineers also monitor environmental problems by remote sensing, align high-precision large industrial machinery, manage computer-based information systems for land inventory and management, and monitor the stability of large structures using highly accurate positioning techniques.
+u: (["what is" "tell me about"] ~geom) Geomatics engineering is a new information technology discipline in which engineers acquire, model, analyze, and manage spatially referenced information and apply the knowledge generated to a wide variety of functions. It uses terrestrial, marine, airborne, and satellite-based sensors to acquire spatial and other data. It then transforms the data into common information systems such as mapping or global positioning systems (GPS) with well-defined accuracy characteristics. Using satellites and other modern techniques, Geomatics engineers help airplane pilots to navigate the skies with increased safety; geophysicists to find underground petroleum reservoirs; and rescue teams to locate ships, aircraft, and land vehicles in distress. Geomatics engineers also monitor environmental problems by remote sensing, align high-precision large industrial machinery, manage computer-based information systems for land inventory and management, and monitor the stability of large structures using highly accurate positioning techniques.
 
 
 
