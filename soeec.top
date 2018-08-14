@@ -1,0 +1,113 @@
+concept: ~soeec ["school of electrical engineering and computing" "electrical school" "electrical engineering and computing school" soeec elec electrical]
+concept: ~cse ["computer science and engineering" cse computer ]
+concept: ~epce ["electrical power and control engineering" epce power]
+concept: ~ece ["electronics and communication engineering" ece communication]
+
+topic: ~soeec keep repeat []
+
+u: (what is ~soeec ?) It is the current School of Electrical Engineering and Computing in Adama Science and Technology University.
+
+u: ([when how] * ~soeec established ?) The current School of Electrical Engineering and Computing is established following, the renaming of the Adama Science and Technology University by the Council of Ministers in May 2011 and shifting of the university from Ministry of Education (MoE) to Ministry of Science and Technology (MoST) to work towards the attainment to become the best Centre of Excellencies in Science and Technology in Ethiopia. Thereby, allowing for the realization of goal has set in the Growth and Transformation Plan (GTP).
+
+u: (["how many" list] * departments * in ~soeec ) There are three departments in SOEEC namely Computer science and engineering,Electrical power and control and Electronics and Communications Engineering.
+
+u: (["what is" "tell me about"] ~cse) The mission of the Computer Science and Engineering CSE program is to provide students with a broad and flexible education in
+computer science and engineering, to prepare its graduates for rapidly changing technological fields, and give them a sound basis for
+professional practice, advanced education, active citizenship, and lifelong learning. The students are prepared to expand this
+knowledge through research into new technologies, design methods, and analysis techniques that link the knowledge with multidisciplinary
+fields and advance the state of the art. With a knowledge of contemporary technological issues and their impact globally,
+economically, and environmentally, computer scientists and engineers are at the forefront of advances that continually transform
+society.
+CSE undergraduate program tries to make balance among three spinoffs; Computer Science, Software Engineering, and Computer
+Engineering. This scheme exactly fits and aligned with the latest ACM curriculum directions, which considers best and tested
+experience internationally. Course distribution in each semester is well planned and structured to harness knowledge from the three
+spinoffs into computer science and engineering knowledge domain. Elective courses gives opportunity for program student to make
+more stable basement in one of the spinoffs for further study, without compromising computer science and engineering knowledge
+domain.
+CSE postgraduate program is flexible, student oriented, and research driven program. Except one course, all courses are elective.
+There are seven course clusters, supposedly specialty steams in the PG curriculum.
+Algorithm and computation 
+Artificial Intelligence
+Software Engineering
+Systems and Networks
+Computer Architecture
+Computer Vision, Graphics and Robotics
+Network and Information Systems Security
+SIG Special interest groups:
+Special interest group, particularly research groups, are groups of people (preferably not less than three) who are devoted doing
+researches on specific areas in main and latest stream of CSE. An individual who is a professor on the area will lead the group.SIG
+group members are comprised of mainly program academic staff members, and PG and UG students. By its nature, SIGs are
+composed of multidisciplinary field of studies; hence members could come from different programs from the same school or even
+different schools.
+Each research group main duties are (1) making discussion on scientific research outputs including journals, seminar and conference
+papers, brain storming on current status on science and technology, (2) disseminating the knowledge the University community by
+conducting seminars and other means, (3) and actively participate in scientific paper publications in the respective focus areas. In the
+aspect of establishing and strengthening the program, these groups plays vital roles in developing and reviewing course contents, also
+standardizing and managing labs for both undergraduate and post graduate programs. Research groups grow in to a particular post
+graduate program, and eventually into a research center in the area.
+Currently, the following SIG are active in the program
+Intelligent Systems
+Data Science
+Cloud Computing and distributed system
+Network Science 
+Computer vision and Robotics
+
+u: (["what is" "tell me about"] ~epce) The program of Electrical Power and Control Engineering (EPCE) is one of the three programs in the School of Electrical Engineering
+and Computing in Adama Science and Technology University. The Program is aimed in serving the country by producing engineers
+and researchers who are playing key roles in the various sectors of development in the country and also advanced the University’s
+reputation. The core strategy of the Program is to pursue its vision and mission to enhance its research, linkage with industry,
+academic and scholarly activities and become a center of excellence for its programs, thereby improving its eminence in national and
+international rankings.
+The program has three areas of specialization at master level, namely:
+ELECTRICAL POWER ENGINEERING
+CONTROL ENGINEERING
+POWER ELECTRONICS
+Power engineering, also called power systems engineering, is a subfield of energy engineering and electrical engineering that
+deals with the generation, transmission, distribution and utilization of electric power and the electrical devices connected to such
+systems including generators, motors and transformers. Although much of the field is concerned with the problems of power, the
+standard for large-scale power transmission and distribution across the modern world, a significant fraction of the field is concerned
+with the conversion between AC and DC power and the development of specialized power systems such as those used in aircraft or for
+electric railway networks.
+Control engineering or control systems engineering is the engineering discipline that applies control theory to design systems
+with desired behaviors. The practice uses sensors to measure the output performance of the device being controlled and those
+measurements can be used to give feedback to the input actuators that can make corrections toward desired performance. When a
+device is designed to perform without the need of human inputs for correction it is called automatic control (such as cruise control for
+regulating the speed of a car). Multi-disciplinary in nature, control systems engineering activities focus on implementation of control
+systems mainly derived by mathematical modeling of systems of a diverse range. Its main focus is on automation of system, fuzzy
+logic, mechatronics, etc
+Power electronics is the application of solid-state electronics to the control and conversion of electric power. It is the bridge
+between electrical power and control engineering. It also refers to a subject of research in electronic and electrical engineering which
+deals with the design, control, computation and integration of nonlinear, time-varying energy-processing electronic systems with fast
+dynamics. In modern systems the conversion is performed with semiconductor switching devices such as diodes, thyristors and
+transistors. In contrast to electronic systems concerned with transmission and processing of signals and data, in power electronics
+substantial amounts of electrical energy are processed. An AC/DC converter (rectifier) is the most typical power electronics device
+found in many consumer electronic devices. The power range is typically from tens of watts to several hundred watts. In industry a
+common application is the variable speed drive (VSD) that is used to control an induction motor. The power ranges of VSDs start
+from a few hundred watts and end at tens of megawatts.
+The program has sufficient PhD staffs to teach and advise the students. Moreover, the laboratory facilities are too the standard and it is
+well organized. Currently, the university is also purchasing very huge high technology laboratory equipment.
+
+
+u: (["what is" "tell me about"] ~ece)  Electronics and Communication Engineering is one of the programs of School of Electrical
+Engineering & Computing that aims to integrate separate engineering fields to meet the joint
+demands made by the Electronics and Communication industries in today's world. This program
+includes design, implementation and testing of a wide range of Electronics and Communication
+systems such as electronic devices, communications devices, digital signal processing and
+networking.
+Graduates of this program are ideally placed to pursue their specialization in any of the two
+streams, either Electronics Engineering or Communication Engineering based on their zeal, interest
+and skill. Our graduates can work at the forefront of all the major areas of Electronics as well as
+Communication Engineering.
+In Electronics Engineering, students will develop knowledge and skills to use semiconductor devices to create a wide variety of
+products and services which includes design and development of Microelectronic devices, PCB & IC fabrication and Embedded
+Systems as well.
+In Communication Engineering, they will develop the knowledge and skill to design and use electronic, photonic and electromagnetic
+devices to exchange information among locations on earth and in space. A communication Engineer is responsible for designing, 
+building and overseeing the installation of communication equipment and facilities, such as complex electronic switching
+systems, telephone, and fiber optics.
+Possible specializations of the program includes Antennas and Satellites, Artificial Intelligence, Biomedical Engineering,
+Bioelectronics, Communications, Computer Architecture, Computer Hardware Design, Computer Networks, Digital Signal
+Processing, Electromagnetics, Electronics, Embedded Systems, Microelectronics, Nanotechnology, Robotics, Signal Processing.
+
+
+
