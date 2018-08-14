@@ -25,10 +25,6 @@ concept: ~physics ["applied physics" "physics"]
 concept: ~chem ["applied chemistry" "applied chem" "chemo" "chemistry"]
 concept: ~bio ["applied bio" "applied biology" "biology"]
 concept: ~geo ["applied geology" "applied geo" "geo" "geology"]
-<<<<<<< HEAD
-
-=======
->>>>>>> 8dfcd4eb1bbc4b56dfc5d1d8beddaecd1c4db6fe
 concept: ~cafe ["cafeteria" "cafeterias" "student cafeteria" "cafe" "cafes" "student cafeterias"] 
 concept: ~lounge ["teachers" "student" "central" "container" mestawot mirror mastawot mestawet ]
 

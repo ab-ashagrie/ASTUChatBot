@@ -1,7 +1,6 @@
 concept: ~icpc ["International Collegiate Programming Contest" "icpc" "ACM International Collegiate Programming Contest" "acm"]
-concept: ~astu ["adama science and technology univeristy" "adama university" "college" "astu"]
 
-topic: ~icpc keep repeat [icpc ~astu]
+topic: ~icpc keep repeat [icpc]
 
 u: (what is ~icpc) ICPC is an annual multi-tiered competitive programming competition among the universities of world.
 
@@ -9,7 +8,7 @@ u: (who * participate * ~icpc) Every student of ASTU can Participate on ICPC com
 
 u: (when did ~astu first participate) [Students of Astu first participated in the year 2007 e.c] [2007 e.c]
 
-u: ([how "tell me"] * ~icpc start in ~astu) [Icpc started in astu because of the former head of school of electrical engineering and computing(soEEC) Professor Chwa.] [The idea was first brought by former head of soEEC Professor Chwa from North Korea]
+u: ([how "tell me how"] * ~icpc start in ~astu) [Icpc started in astu because of the former head of school of electrical engineering and computing(soEEC) Professor Chwa.] [The idea was first brought by former head of soEEC Professor Chwa from North Korea]
 
 <<<<<<< HEAD
 u: ([what is the schedule of ~icpc] [what do students do after joining ~icpc] [what is the programm of ~icpc]) [Every summer there is Training program for members, local contest in september and regional on the same month and international in the second half of the year. During the rest of the year demo contests are prepared by the ICPC comite] [members participate in demo contests the whole year training during the summer local and regional contest on september and finaly international representing Ethiopia]
