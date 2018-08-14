@@ -11,7 +11,11 @@ u: (when did ~astu first participate) [Students of Astu first participated in th
 
 u: ([how "tell me"] * ~icpc start in ~astu) [Icpc started in astu because of the former head of school of electrical engineering and computing(soEEC) Professor Chwa.] [The idea was first brought by former head of soEEC Professor Chwa from North Korea]
 
+<<<<<<< HEAD
+u: ([what is the schedule of ~icpc] [what do students do after joining ~icpc] [what is the programm of ~icpc]) [Every summer there is Training program for members, local contest in september and regional on the same month and international in the second half of the year. During the rest of the year demo contests are prepared by the ICPC comite] [members participate in demo contests the whole year training during the summer local and regional contest on september and finaly international representing Ethiopia]
+=======
 u: ([what is the schedule of ~icpc] [what do students do after joining ~icpc] [what is the programm of ~icpc]) [Every summer there is a training program for members, a local contest in september and a regional contest on the same month and an international contest in the second half of the year. During the rest of the year demo contests are prepared by the ICPC committe] [members participate in demo contests the whole year and then train during the summe,local and regional contests on september and finally an international contest representing Ethiopia]
+>>>>>>> 8dfcd4eb1bbc4b56dfc5d1d8beddaecd1c4db6fe
 
 u: ([use purpose] of ~icpc) Icpc help students develop their programming and problem solving skills.
 
