@@ -1,12 +1,12 @@
-concept: ~socea ["school of civil engineering and architecture" "civil school" "civil engineering school" "architecture school" "arch school" "socea"
-concept: ~cotm ["construction technology and management" "cotm"]
-concept: ~upd ["urban planning and design" "upd" "urban"]
-concept: ~arch ["architecture" "arch"]
-concept: ~civil ["civil" "civil engineering"]
-concept: ~wre ["water resource engineering" "water engineering" "hydraulics engineeering" "hydro" "wre"]
+concept: ~socea ["school of civil engineering and architecture" "civil school" "civil engineering school" "architecture school" "arch school" socea]
+concept: ~cotm ["construction technology and management" cotm]
+concept: ~upd ["urban planning and design" upd urban]
+concept: ~arch [architecture arch]
+concept: ~civil [civil "civil engineering"]
+concept: ~wre ["water resource engineering" "water engineering" "hydraulics engineeering" hydro wre]
 concept: ~geo ["geomatics engineering" geo ]
 
-topic: ~socea [ socea ~cotm ~upd ~arch ~ civil ~wre ]
+topic: ~socea keep repeat []
 
 u: (what is ~socea ?) It is the current School of Civil Engineering and Architecture in Adama Science and Technology University.
 
@@ -22,7 +22,9 @@ u: (["what is" "tell me about"] ~arch) Architecture is an art and science of des
 
 u: (["what is" "tell me about"] ~civil) Civil engineering is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including works like roads, bridges, canals, dams, buildings etc. It is traditionally broken into several sub-disciplines including Structural Engineering and Geotechnical Engineering. Subjects related to structural engineering deals with the analysis and design of structures that support or resist loads. Structural Engineering is largely the implementation of mechanics to the design of the large structures that are fundamental to basic living, such as buildings, bridges, walls, dams, and tunnels. Structural engineering theory is based upon applied physical laws and empirical knowledge of the structural performance of different materials and geometries. Structural engineering design utilizes a number of simple structural elements to build complex structural systems. While subjects related to Geotechnical engineering associate with the behavior of soils under the influence of loading forces and soil-water interactions. This knowledge is applied to the design of foundations, retaining walls, earth dams, clay liners, and geosynthetics for waste containment. The goals of geotechnical engineers could range from the design of foundations and temporary excavation support, through route selection for railways and highways, to the increasingly important areas of landfill disposal of wastes and groundwater contamination. Geotechnical principles are important in civil engineering, but also has applications in military, mining, petroleum and other engineering disciplines that are concerned with construction occurring on the surface or within the ground.
 
-u: (["what is" "tell me about"] ~wre) Urban design is the process of designing and shaping cities, towns and villages. Whereas architecture focuses on individual buildings, urban design address the larger scale of groups of buildings, of streets and public spaces, whole neighbourhoods and districts, and entire cities, to make urban areas functional, attractive, and sustainable. Urban design is an inter-disciplinary subject that unites all the built environment professions, including urban planning, landscape architecture, architecture, civil and municipal engineering. Urban design demands a good understanding of a wide range of subjects from physical geography, through to social science, and an appreciation for disciplines, such as real estate development, urban economics, political economy and social theory.
+u: (["what is" "tell me about"] ~wre) Water resources engineers are concerned with the structures and processes related to water supplies for human consumption and the removal of water for safety.Water resources engineering is a specialty of civil engineering that focuses on water supplies, irrigation and waste disposal. It also addresses methods for controlling water to avoid water-related damage and catastrophes.
+
+
 
 u: (["what is" "tell me about"] ~geo) Geomatics engineering is a new information technology discipline in which engineers acquire, model, analyze, and manage spatially referenced information and apply the knowledge generated to a wide variety of functions. It uses terrestrial, marine, airborne, and satellite-based sensors to acquire spatial and other data. It then transforms the data into common information systems such as mapping or global positioning systems (GPS) with well-defined accuracy characteristics. Using satellites and other modern techniques, Geomatics engineers help airplane pilots to navigate the skies with increased safety; geophysicists to find underground petroleum reservoirs; and rescue teams to locate ships, aircraft, and land vehicles in distress. Geomatics engineers also monitor environmental problems by remote sensing, align high-precision large industrial machinery, manage computer-based information systems for land inventory and management, and monitor the stability of large structures using highly accurate positioning techniques.
 
