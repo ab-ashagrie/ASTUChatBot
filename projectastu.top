@@ -25,14 +25,10 @@ concept: ~physics ["applied physics" "physics"]
 concept: ~chem ["applied chemistry" "applied chem" "chemo" "chemistry"]
 concept: ~bio ["applied bio" "applied biology" "biology"]
 concept: ~geo ["applied geology" "applied geo" "geo" "geology"]
-<<<<<<< HEAD
-
-=======
->>>>>>> 8dfcd4eb1bbc4b56dfc5d1d8beddaecd1c4db6fe
 concept: ~cafe ["cafeteria" "cafeterias" "student cafeteria" "cafe" "cafes" "student cafeterias"] 
 concept: ~lounge ["teachers" "student" "central" "container" mestawot mirror mastawot mestawet ]
 
-topic: ~something keep repeat [~ASTU ~KEREYU ~KULBI ~AMFI ~SOEEC ~SOCEA ~SOMCME ~SOANS ~CSE ~EPCE ~ECE ~COTM ~UPD ~ARCH ~CIVIL ~GEO ~WRE ~TAE ~ CE ~MDME ~MSE ~MSVE]
+topic: ~astu keep repeat [astu]
 
 
 u: (["tell me" list] * the places found in ~ASTU) Kereyu,kulbi,amfi,Stadium,Female dorm,Research and Teachers Dorm
@@ -42,6 +38,8 @@ u: ([What "What do You Know"] * ~ASTU *) ^keep() [ASTU is one of the leading sci
 u: ([tell me the number of the ~cafe in ~ASTU] [how many ~cafe are there in ~ASTU]) [There are Five Student Cafeterias in ASTU but Cafe number one is used to hold meetings] [Five]
 
 u: (where is ~cafe _*) $cc='_0
+
+topic: ~cafe keep repeat [cafe]
 
 u: ($cc=one) [Look for Block number 106] [go to Amfi it is right next to it]  $cc=null
 
