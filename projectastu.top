@@ -6,6 +6,7 @@ concept: ~soeec ["school of electrical engineering and computing" "electrical sc
 concept: ~socea ["school of civil engineering and architecture" "civil school" "civil engineering school" "architecture school" "arch school" "socea"]
 concept: ~somcme ["school of mechanical chemical and materials engineering" "mech school" "mechanical school" "somcme" "mech"]
 concept: ~soans ["school of applied natural science" "applied science school" "natural science school" "soans"]
+concept: ~shss ["school of humanity and social science" shss "social school"]
 concept: ~cse ["computer science and engineering" "cse" "computer" ]
 concept: ~epce ["electrical power and control engineering" "epce" "power"]
 concept: ~ece ["electronics and communication engineering" "ece" "communication"]
@@ -32,6 +33,8 @@ topic: ~astu keep repeat [astu]
 
 
 u: (["tell me" list] * the places found in ~ASTU) Kereyu,kulbi,amfi,Stadium,Female dorm,Research and Teachers Dorm
+
+u: (["tell me" list] * the schools found in ~ASTU) There are five schools found in Adama science and technology university namely School of Electrical Engineering and Computing,School of Civil Engineering and Architecture,School of Mechanical Chemical and Materials Engineering,School of Applied Natural Science and School of Humanity and Social Science. 
 
 u: ([What "What do You Know"] * ~ASTU *) ^keep() [ASTU is one of the leading science and technology universities in the country]
 

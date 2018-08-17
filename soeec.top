@@ -5,7 +5,7 @@ concept: ~ece ["electronics and communication engineering" ece communication]
 
 topic: ~soeec keep repeat [soeec]
 
-u: (what is ~soeec ?) It is the current School of Electrical Engineering and Computing in Adama Science and Technology University.
+u: (["what is" "tell me about"] ~soeec) It is the current School of Electrical Engineering and Computing in Adama Science and Technology University.
 
 u: ([when how] * ~soeec established ?) The current School of Electrical Engineering and Computing is established following, the renaming of the Adama Science and Technology University by the Council of Ministers in May 2011 and shifting of the university from Ministry of Education (MoE) to Ministry of Science and Technology (MoST) to work towards the attainment to become the best Centre of Excellencies in Science and Technology in Ethiopia. Thereby, allowing for the realization of goal has set in the Growth and Transformation Plan (GTP).
 
