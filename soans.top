@@ -7,7 +7,7 @@ concept: ~geo ["applied geology" "applied geo" geo geology]
 
 topic: ~soans keep repeat []
 
-u: (what is ~soans ?) It is the current School of Applied and Natural Science in Adama Science and Technology University.
+u: (["what is" "tell me about"] ~soans) It is the current School of Applied and Natural Science in Adama Science and Technology University.
 
 u: (["how many" list] * departments * in ~soans ) There are five depaprtments in SOANS namely Applied maths,Applied physics,Applied chemistry,Applied biology and Applied geology.
 
