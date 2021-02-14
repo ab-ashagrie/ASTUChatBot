@@ -1,0 +1,59 @@
+concept: ~gpa [gpa]
+
+topic: ~gpa keep repeat [gpa]
+
+u:(help me with ~gpa) okay,sure.
+
+u: (on the first course I got _* ) $c1s = '_0  I got a $c1s  
+
+
+u: (on the second course I got a _* ) 
+   $c2s = '_0
+   okay,on your second course you got a $c2s
+
+u: (on the third course I got a _* ) 
+   $c3s = '_0
+   okay,on your third course you got a $c3s
+
+u: (on the fourth course I got a _* ) 
+   $c4s = '_0
+   okay,on your fourth course you got a $c4s
+
+u: (on the fifth course I got a _* ) 
+   $c5s = '_0
+   okay,on your fifth course you got a $c5s
+
+u: (The first course was of _* credit hours) 
+   $c1ch = '_0
+   okay,your first course was of $c1ch credit hours
+
+u: (The second course was of _* credit hours) 
+   $c2ch = '_0
+   okay,your second course was of $c2ch credit hours
+
+u: (The third course was of _* credit hours) 
+   $c3ch = '_0
+   okay,your third course was of $c3ch credit hours
+
+u: (The fourth course was of _* credit hours) 
+   $c4ch = '_0
+   okay,your fourth course was of $c4ch credit hours
+
+u: (The fifth course was of _* credit hours) 
+   $c5ch = '_0
+   okay,your fifth course was of $c5ch credit hours
+
+u: (calculate my gpa)
+   $tch = $c1ch+$c2ch=$c3ch+$c4ch+$c5ch
+   $c1 = $c1s*$c1ch
+   $c2 = $c2s*$c2ch
+   $c3 = $c3s*$c3ch
+   $c4 = $c14*$c4ch
+   $c5 = $c5s*$c5ch
+
+   $tc = $c1+$c2+$c3+$c4+$c5
+
+   $gpa = $tc/$tch
+
+u:(tell me my gpa) I have calculated your gpa to be $gpa
+

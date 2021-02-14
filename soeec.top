@@ -3,13 +3,16 @@ concept: ~cse ["computer science and engineering" cse computer ]
 concept: ~epce ["electrical power and control engineering" epce power]
 concept: ~ece ["electronics and communication engineering" ece communication]
 
-topic: ~soeec keep repeat []
+topic: ~soeec keep repeat [soeec]
 
-u: (what is ~soeec ?) It is the current School of Electrical Engineering and Computing in Adama Science and Technology University.
+u: (["what is" "tell me about"] ~soeec) It is the current School of Electrical Engineering and Computing in Adama Science and Technology University.
 
 u: ([when how] * ~soeec established ?) The current School of Electrical Engineering and Computing is established following, the renaming of the Adama Science and Technology University by the Council of Ministers in May 2011 and shifting of the university from Ministry of Education (MoE) to Ministry of Science and Technology (MoST) to work towards the attainment to become the best Centre of Excellencies in Science and Technology in Ethiopia. Thereby, allowing for the realization of goal has set in the Growth and Transformation Plan (GTP).
 
 u: (["how many" list] * departments * in ~soeec ) There are three departments in SOEEC namely Computer science and engineering,Electrical power and control and Electronics and Communications Engineering.
+
+topic: ~cse keep repeat [cse]
+
 
 u: (["what is" "tell me about"] ~cse) The mission of the Computer Science and Engineering CSE program is to provide students with a broad and flexible education in
 computer science and engineering, to prepare its graduates for rapidly changing technological fields, and give them a sound basis for
@@ -52,6 +55,10 @@ Cloud Computing and distributed system
 Network Science 
 Computer vision and Robotics
 
+
+topic: ~epce keep repeat [epce]
+
+
 u: (["what is" "tell me about"] ~epce) The program of Electrical Power and Control Engineering (EPCE) is one of the three programs in the School of Electrical Engineering
 and Computing in Adama Science and Technology University. The Program is aimed in serving the country by producing engineers
 and researchers who are playing key roles in the various sectors of development in the country and also advanced the University’s
@@ -87,6 +94,8 @@ from a few hundred watts and end at tens of megawatts.
 The program has sufficient PhD staffs to teach and advise the students. Moreover, the laboratory facilities are too the standard and it is
 well organized. Currently, the university is also purchasing very huge high technology laboratory equipment.
 
+
+topic: ~ece keep repeat [ece]
 
 u: (["what is" "tell me about"] ~ece)  Electronics and Communication Engineering is one of the programs of School of Electrical
 Engineering & Computing that aims to integrate separate engineering fields to meet the joint
